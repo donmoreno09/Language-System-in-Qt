@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/LanguageSystem_ApprendimentoV2/">
+    <file alias="src/qml/Main.qml">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/src/qml/Main.qml</file>
+    <file alias="src/qml/components/LanguageSelector.qml">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/src/qml/components/LanguageSelector.qml</file>
+    <file alias="src/qml/components/TaskItem.qml">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/src/qml/components/TaskItem.qml</file>
+    <file alias="src/qml/components/AddTaskDialog.qml">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/src/qml/components/AddTaskDialog.qml</file>
+    <file alias="src/qml/pages/TaskListPage.qml">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/src/qml/pages/TaskListPage.qml</file>
+    <file alias="resource/qml.qrc">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/resource/qml.qrc</file>
+    <file alias="resource/translations.qrc">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/resource/translations.qrc</file>
+    <file alias="README.md">C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/README.md</file>
+  </qresource>
+</RCC>
+

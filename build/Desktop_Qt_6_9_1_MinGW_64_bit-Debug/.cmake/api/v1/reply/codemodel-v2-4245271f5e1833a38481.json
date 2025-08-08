@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f80a1f1e51e99efce5a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LanguageSystem_ApprendimentoV2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LanguageSystem_ApprendimentoV2_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LanguageSystem_ApprendimentoV2_lrelease-Debug-d8d336a2563f250f7958.json",
+					"name" : "LanguageSystem_ApprendimentoV2_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LanguageSystem_ApprendimentoV2_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LanguageSystem_ApprendimentoV2_lupdate-Debug-2eb272ed788ce9d31504.json",
+					"name" : "LanguageSystem_ApprendimentoV2_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-70aedd1b96460167ad25.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3a69dbdc7506b3681edb.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-227a20c5a6bbd9284048.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-eb0ecf35d63ba7b16b79.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-813fc766d05c587bc925.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2-Debug-22db9c74b4583fa9f3dd.json",
+					"name" : "appLanguageSystem_ApprendimentoV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_autogen-Debug-9e6520c60b6600a5e68c.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_autogen_timestamp_deps-Debug-9a7790d7999c78d0c09a.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_copy_qml-Debug-aad910f8451753d9836c.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_copy_res-Debug-4771930dc5befd1f69cf.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_other_files-Debug-d4b02ceb13c405b78074.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_qmlimportscan-Debug-d66026ec67c9dac6ef47.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_qmllint-Debug-7c14ffbcade38537d895.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_qmllint_json-Debug-fa1c56ba3921afb8dbd7.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_qmllint_module-Debug-f72389dd59fd10d6d9bd.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLanguageSystem_ApprendimentoV2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLanguageSystem_ApprendimentoV2_qmltyperegistration-Debug-dc8e3349e157995c5d28.json",
+					"name" : "appLanguageSystem_ApprendimentoV2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appLanguageSystem_ApprendimentoV2_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appLanguageSystem_ApprendimentoV2_aotstats_target-Debug-32dd53416b02ec295779.json",
+					"name" : "module_appLanguageSystem_ApprendimentoV2_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Debug-4d7ebf2e8862072bb158.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Debug-f7e5e4f3961f6e50f46a.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

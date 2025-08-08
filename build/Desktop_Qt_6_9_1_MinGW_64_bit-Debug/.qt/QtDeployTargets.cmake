@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appLanguageSystem_ApprendimentoV2_FILE C:/Users/esis/Documents/LanguageSystem_ApprendimentoV2/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/appLanguageSystem_ApprendimentoV2.exe)
+set(__QT_DEPLOY_TARGET_appLanguageSystem_ApprendimentoV2_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appLanguageSystem_ApprendimentoV2_RUNTIME_DLLS C:/Qt/6.9.1/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Network.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.9.1/mingw_64/bin/Qt6Core.dll)

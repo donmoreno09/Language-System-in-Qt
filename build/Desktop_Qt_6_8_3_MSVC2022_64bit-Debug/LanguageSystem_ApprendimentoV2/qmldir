@@ -1,0 +1,9 @@
+module LanguageSystem_ApprendimentoV2
+typeinfo appLanguageSystem_ApprendimentoV2.qmltypes
+prefer :/qt/qml/LanguageSystem_ApprendimentoV2/
+Main 1.0 src/qml/Main.qml
+LanguageSelector 1.0 src/qml/components/LanguageSelector.qml
+TaskItem 1.0 src/qml/components/TaskItem.qml
+AddTaskDialog 1.0 src/qml/components/AddTaskDialog.qml
+TaskListPage 1.0 src/qml/pages/TaskListPage.qml
+
